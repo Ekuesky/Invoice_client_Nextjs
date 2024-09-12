@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="068d88e1-b8d0-4c3a-8b5a-9fc72f5423f9" name="Changes" comment="" />
+    <list default="true" id="068d88e1-b8d0-4c3a-8b5a-9fc72f5423f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/definitions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/definitions.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,28 +17,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/nextjs-dashboard/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2lw4GafHSGBNuyhYCkeE7hVHosx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "20.14.0",
-    "javascript.nodejs.core.library.typings.version": "20.14.0",
-    "last_opened_file_path": "C:/WORKSPACE/invoice_front",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PyCharm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.14.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.14.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WORKSPACE/invoice_front&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu-22.04@/usr/local/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PyCharm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +54,9 @@
       <option name="presentableId" value="Default" />
       <updated>1726077710049</updated>
       <workItem from="1726077711351" duration="62000" />
-      <workItem from="1726077848388" duration="817000" />
+      <workItem from="1726077848388" duration="3967000" />
+      <workItem from="1726135526088" duration="1628000" />
+      <workItem from="1726137164606" duration="624000" />
     </task>
     <servers />
   </component>
