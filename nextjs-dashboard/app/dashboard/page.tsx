@@ -14,7 +14,8 @@ export default async function Page() {
     numberOfCustomers,
   } = await fetchCardData();
 
-  return ( // Make sure you return the JSX
+  // @ts-ignore
+    return ( // Make sure you return the JSX
     <main>
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
         Dashboard
