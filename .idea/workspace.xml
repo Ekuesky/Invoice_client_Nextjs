@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="068d88e1-b8d0-4c3a-8b5a-9fc72f5423f9" name="Changes" comment="fix:reinstall next for deployement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <workItem from="1726077711351" duration="62000" />
       <workItem from="1726077848388" duration="3967000" />
       <workItem from="1726135526088" duration="1628000" />
-      <workItem from="1726137164606" duration="15563000" />
+      <workItem from="1726137164606" duration="16369000" />
     </task>
     <task id="LOCAL-00001" summary="added home.module.css">
       <created>1726140574173</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726221358040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix:reinstall next for deployement">
+      <created>1726223518024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726223518024</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
