@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="068d88e1-b8d0-4c3a-8b5a-9fc72f5423f9" name="Changes" comment="fix:route.ts updated">
+    <list default="true" id="068d88e1-b8d0-4c3a-8b5a-9fc72f5423f9" name="Changes" comment="feat: chap 7 fetching data">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +40,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "eu.ydp.idea.ts.spec.generator.settings.spec.template": "import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';\n\ndescribe('$ClassName$', () => {\n  let $ObjName$:$ClassName$;\n\n  beforeEach(() => {\n    $ObjName$ = new $ClassName$();\n  });\n\n  describe('', () => {\n    it('', () => {\n      // given\n\n      // when\n\n      // then\n    });\n  });\n});\n",
     "javascript.nodejs.core.library.configured.version": "20.14.0",
     "javascript.nodejs.core.library.typings.version": "20.14.0",
+    "js.last.introduce.type": "CONST",
     "last_opened_file_path": "C:/WORKSPACE/invoice_front/nextjs-dashboard/app/dashboard/customers",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "wsl://Ubuntu-22.04@/usr/local/bin/node",
     "nodejs_package_manager_path": "pnpm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PyCharm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
@@ -61,6 +62,7 @@
       <recent name="C:\WORKSPACE\invoice_front\nextjs-dashboard\app\dashboard\invoices" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WORKSPACE\invoice_front\nextjs-dashboard\app\dashboard\(overview)" />
       <recent name="C:\WORKSPACE\invoice_front\nextjs-dashboard\app" />
     </key>
   </component>
@@ -75,7 +77,8 @@
       <workItem from="1726077711351" duration="62000" />
       <workItem from="1726077848388" duration="3967000" />
       <workItem from="1726135526088" duration="1628000" />
-      <workItem from="1726137164606" duration="30057000" />
+      <workItem from="1726137164606" duration="37367000" />
+      <workItem from="1726258991957" duration="5731000" />
     </task>
     <task id="LOCAL-00001" summary="added home.module.css">
       <created>1726140574173</created>
@@ -161,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726241690558</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix:route.ts updated">
+      <created>1726242161025</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726242161025</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: chap 7 fetching data">
+      <created>1726249060730</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726249060730</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +202,7 @@
     <MESSAGE value="feat:use of next/link to avoid page refresh, active link with usePathname, navigations" />
     <MESSAGE value="fix:reinstall next for deployement" />
     <MESSAGE value="fix:route.ts updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix:route.ts updated" />
+    <MESSAGE value="feat: chap 7 fetching data" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: chap 7 fetching data" />
   </component>
 </project>
