@@ -2,9 +2,9 @@
 
 const nextConfig = {
     // enable ppr option
-    experimental: {
-        ppr: 'incremental',
-    }
+    // experimental: {
+    //     ppr: 'incremental',
+    // }
 };
 
 export default nextConfig;
