@@ -15,6 +15,7 @@
       <list>
         <option value="CSS File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -78,7 +79,7 @@
       <workItem from="1726077848388" duration="3967000" />
       <workItem from="1726135526088" duration="1628000" />
       <workItem from="1726137164606" duration="37367000" />
-      <workItem from="1726258991957" duration="21910000" />
+      <workItem from="1726258991957" duration="23505000" />
     </task>
     <task id="LOCAL-00001" summary="added home.module.css">
       <created>1726140574173</created>
