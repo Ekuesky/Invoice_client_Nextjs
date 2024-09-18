@@ -1,4 +1,3 @@
-// @ts-ignore
 import clsx from 'clsx';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
