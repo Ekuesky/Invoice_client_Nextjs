@@ -50,7 +50,9 @@
     "last_opened_file_path": "C:/WORKSPACE/invoice_front/nextjs-dashboard/app/dashboard/customers",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "nodejs_interpreter_path": "wsl://Ubuntu-22.04@/usr/local/bin/node",
     "nodejs_package_manager_path": "pnpm",
     "settings.editor.selected.configurable": "settings.typescriptcompiler",
@@ -79,7 +81,7 @@
       <workItem from="1726077848388" duration="3967000" />
       <workItem from="1726135526088" duration="1628000" />
       <workItem from="1726137164606" duration="37367000" />
-      <workItem from="1726258991957" duration="31219000" />
+      <workItem from="1726258991957" duration="38271000" />
     </task>
     <task id="LOCAL-00001" summary="added home.module.css">
       <created>1726140574173</created>
