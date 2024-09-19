@@ -4,10 +4,9 @@ import {z} from 'zod';
 import {sql} from '@vercel/postgres'; //inserting data into database
 import {revalidatePath} from 'next/cache';
 import {redirect} from 'next/navigation';
-
+import { signIn } from '@/auth';
+import { AuthError } from 'next-auth';
 //authentication
-import  {signIn} from "@/auth";
-import {AuthError} from 'next-auth'
 export async function authenticate(
   prevState: string | undefined,
   formData: FormData,
