@@ -18,6 +18,8 @@ export async function authenticate(
       switch (error.type) {
         case 'CredentialsSignin':
           return 'Invalid credentials.';
+        case 'Signin':
+          return error.message;
         default:
           return 'Something went wrong.';
       }
